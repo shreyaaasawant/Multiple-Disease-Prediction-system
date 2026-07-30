@@ -1,0 +1,27 @@
+To run the provided Streamlit application, follow these steps:
+
+1. **Install Required Dependencies**:
+    Ensure you have Python installed and install the required libraries by running:
+    ```bash
+    pip install streamlit fpdf scikit-learn streamlit-option-menu
+    ```
+
+2. **Navigate to the Directory**:
+    Open a terminal and navigate to the directory containing the `app.py` file:
+    ```bash
+    cd /d:/PROJECTS/Multiple-Disease-Prediction-main/Multiple-Disease-Prediction-main/Multiple-Disease-Prediction-main/
+    ```
+
+3. **Run the Streamlit App**:
+    Execute the following command to start the Streamlit app:
+    ```bash
+    streamlit run app.py
+    ```
+
+4. **Access the App**:
+    After running the command, Streamlit will provide a local URL (e.g., `http://localhost:8501`). Open this URL in your web browser to access the application.
+
+5. **Ensure Model Files Exist**:
+    Make sure the `diabetes.pkl`, `heart.pkl`, and `breast.pkl` model files are in the same directory as `app.py`. If they are missing, the app will not work.
+
+Let me know if you encounter any issues!
