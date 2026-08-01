@@ -117,6 +117,12 @@ The application provides:
 - Personalized precautions
 - Lifestyle suggestions
 
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software in accordance with the terms of the MIT License. See the [LICENSE](LICENSE) file for full license details.
+
 ### 8. Email Report
 
 Optionally send the complete prediction report and recommendations to your registered email address.
