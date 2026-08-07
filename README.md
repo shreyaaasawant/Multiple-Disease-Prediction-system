@@ -1,7 +1,5 @@
 # 🩺 Multiple Disease Prediction System
-## 🚀 Live Demo
 
-[**🔗 Try the Live Application →**](https://multiple-disease-prediction-system-11.streamlit.app/)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Streamlit-Web%20App-red?style=for-the-badge&logo=streamlit">
@@ -15,6 +13,11 @@ A comprehensive AI-powered healthcare assistant that predicts multiple diseases,
 </p>
 
 ---
+## 🚀 Live Demo
+
+[**🔗 Try the Live Application →**](https://multiple-disease-prediction-system-11.streamlit.app/)
+
+
 
 # ✨ Features
 
